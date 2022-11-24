@@ -8,6 +8,8 @@ try {
     console.log(e);
 }
 
+// Note: Data traversing can obviously be improved in terms of efficiency but is sufficient
+// for the current data size
 function handleLocalities(localities) {
     const suburbData = collectSuburbData(localities)
     const multipleNamedSuburbData = getMultipleNamedSuburbs(suburbData);
