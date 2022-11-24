@@ -1,0 +1,290 @@
+{
+  "City Centre": [
+    {
+      "LocalityName": "Manawatu / Whanganui",
+      "LocalityId": 6,
+      "DistrictName": "Palmerston North",
+      "DistrictId": 40,
+      "SuburbName": "City Centre",
+      "SuburbId": 1468
+    },
+    {
+      "LocalityName": "Manawatu / Whanganui",
+      "LocalityId": 6,
+      "DistrictName": "Whanganui",
+      "DistrictId": 37,
+      "SuburbName": "City Centre",
+      "SuburbId": 1672
+    }
+  ],
+  "Arapuni": [
+    {
+      "LocalityName": "Waikato",
+      "LocalityId": 14,
+      "DistrictName": "South Waikato",
+      "DistrictId": 19,
+      "SuburbName": "Arapuni",
+      "SuburbId": 801
+    },
+    {
+      "LocalityName": "Waikato",
+      "LocalityId": 14,
+      "DistrictName": "Waikato",
+      "DistrictId": 13,
+      "SuburbName": "Arapuni",
+      "SuburbId": 800
+    }
+  ],
+  "Oropi": [
+    {
+      "LocalityName": "Bay Of Plenty",
+      "LocalityId": 2,
+      "DistrictName": "Tauranga",
+      "DistrictId": 23,
+      "SuburbName": "Oropi",
+      "SuburbId": 3559
+    },
+    {
+      "LocalityName": "Bay Of Plenty",
+      "LocalityId": 2,
+      "DistrictName": "Western Bay Of Plenty",
+      "DistrictId": 22,
+      "SuburbName": "Oropi",
+      "SuburbId": 3135
+    }
+  ],
+  "Pyes Pa": [
+    {
+      "LocalityName": "Bay Of Plenty",
+      "LocalityId": 2,
+      "DistrictName": "Tauranga",
+      "DistrictId": 23,
+      "SuburbName": "Pyes Pa",
+      "SuburbId": 524
+    },
+    {
+      "LocalityName": "Bay Of Plenty",
+      "LocalityId": 2,
+      "DistrictName": "Western Bay Of Plenty",
+      "DistrictId": 22,
+      "SuburbName": "Pyes Pa",
+      "SuburbId": 523
+    }
+  ],
+  "Patangata": [
+    {
+      "LocalityName": "Hawke's Bay",
+      "LocalityId": 5,
+      "DistrictName": "Central Hawke's Bay",
+      "DistrictId": 32,
+      "SuburbName": "Patangata",
+      "SuburbId": 1277
+    },
+    {
+      "LocalityName": "Hawke's Bay",
+      "LocalityId": 5,
+      "DistrictName": "Hastings",
+      "DistrictId": 30,
+      "SuburbName": "Patangata",
+      "SuburbId": 1263
+    }
+  ],
+  "Waverley": [
+    {
+      "LocalityName": "Southland",
+      "LocalityId": 11,
+      "DistrictName": "Invercargill",
+      "DistrictId": 75,
+      "SuburbName": "Waverley",
+      "SuburbId": 3475
+    },
+    {
+      "LocalityName": "Southland",
+      "LocalityId": 11,
+      "DistrictName": "Southland",
+      "DistrictId": 73,
+      "SuburbName": "Waverley",
+      "SuburbId": 3138
+    }
+  ],
+  "Highbury": [
+    {
+      "LocalityName": "Manawatu / Whanganui",
+      "LocalityId": 6,
+      "DistrictName": "Manawatu",
+      "DistrictId": 39,
+      "SuburbName": "Highbury",
+      "SuburbId": 1638
+    },
+    {
+      "LocalityName": "Manawatu / Whanganui",
+      "LocalityId": 6,
+      "DistrictName": "Palmerston North",
+      "DistrictId": 40,
+      "SuburbName": "Highbury",
+      "SuburbId": 1756
+    }
+  ],
+  "Kelvin Grove": [
+    {
+      "LocalityName": "Manawatu / Whanganui",
+      "LocalityId": 6,
+      "DistrictName": "Manawatu",
+      "DistrictId": 39,
+      "SuburbName": "Kelvin Grove",
+      "SuburbId": 1660
+    },
+    {
+      "LocalityName": "Manawatu / Whanganui",
+      "LocalityId": 6,
+      "DistrictName": "Palmerston North",
+      "DistrictId": 40,
+      "SuburbName": "Kelvin Grove",
+      "SuburbId": 1661
+    }
+  ],
+  "Whakarongo": [
+    {
+      "LocalityName": "Manawatu / Whanganui",
+      "LocalityId": 6,
+      "DistrictName": "Manawatu",
+      "DistrictId": 39,
+      "SuburbName": "Whakarongo",
+      "SuburbId": 3615
+    },
+    {
+      "LocalityName": "Manawatu / Whanganui",
+      "LocalityId": 6,
+      "DistrictName": "Palmerston North",
+      "DistrictId": 40,
+      "SuburbName": "Whakarongo",
+      "SuburbId": 3568
+    }
+  ],
+  "Linden": [
+    {
+      "LocalityName": "Wellington",
+      "LocalityId": 15,
+      "DistrictName": "Porirua",
+      "DistrictId": 44,
+      "SuburbName": "Linden",
+      "SuburbId": 973
+    },
+    {
+      "LocalityName": "Wellington",
+      "LocalityId": 15,
+      "DistrictName": "Wellington",
+      "DistrictId": 47,
+      "SuburbName": "Linden",
+      "SuburbId": 1930
+    }
+  ],
+  "Moana": [
+    {
+      "LocalityName": "West Coast",
+      "LocalityId": 16,
+      "DistrictName": "Grey",
+      "DistrictId": 56,
+      "SuburbName": "Moana",
+      "SuburbId": 2382
+    },
+    {
+      "LocalityName": "West Coast",
+      "LocalityId": 16,
+      "DistrictName": "Westland",
+      "DistrictId": 57,
+      "SuburbName": "Moana",
+      "SuburbId": 2399
+    }
+  ],
+  "Bexley": [
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Christchurch City",
+      "DistrictId": 60,
+      "SuburbName": "Bexley",
+      "SuburbId": 2342
+    },
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Waimakariri",
+      "DistrictId": 59,
+      "SuburbName": "Bexley",
+      "SuburbId": 2417
+    }
+  ],
+  "Ravenswood": [
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Christchurch City",
+      "DistrictId": 60,
+      "SuburbName": "Ravenswood",
+      "SuburbId": 3701
+    },
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Waimakariri",
+      "DistrictId": 59,
+      "SuburbName": "Ravenswood",
+      "SuburbId": 3700
+    }
+  ],
+  "Tokanui": [
+    {
+      "LocalityName": "Southland",
+      "LocalityId": 11,
+      "DistrictName": "Catlins",
+      "DistrictId": 78,
+      "SuburbName": "Tokanui",
+      "SuburbId": 3742
+    },
+    {
+      "LocalityName": "Southland",
+      "LocalityId": 11,
+      "DistrictName": "Southland",
+      "DistrictId": 73,
+      "SuburbName": "Tokanui",
+      "SuburbId": 2438
+    }
+  ],
+  "Te Tipua": [
+    {
+      "LocalityName": "Southland",
+      "LocalityId": 11,
+      "DistrictName": "Gore",
+      "DistrictId": 74,
+      "SuburbName": "Te Tipua",
+      "SuburbId": 3711
+    },
+    {
+      "LocalityName": "Southland",
+      "LocalityId": 11,
+      "DistrictName": "Southland",
+      "DistrictId": 73,
+      "SuburbName": "Te Tipua",
+      "SuburbId": 3714
+    }
+  ],
+  "Wallacetown": [
+    {
+      "LocalityName": "Southland",
+      "LocalityId": 11,
+      "DistrictName": "Invercargill",
+      "DistrictId": 75,
+      "SuburbName": "Wallacetown",
+      "SuburbId": 3474
+    },
+    {
+      "LocalityName": "Southland",
+      "LocalityId": 11,
+      "DistrictName": "Southland",
+      "DistrictId": 73,
+      "SuburbName": "Wallacetown",
+      "SuburbId": 1478
+    }
+  ]
+}
