@@ -1,0 +1,1850 @@
+{
+  "Waima": [
+    {
+      "LocalityName": "Northland",
+      "LocalityId": 9,
+      "DistrictName": "Far North",
+      "DistrictId": 1,
+      "SuburbName": "Waima",
+      "SuburbId": 3544
+    },
+    {
+      "LocalityName": "Auckland",
+      "LocalityId": 1,
+      "DistrictName": "Waitakere City",
+      "DistrictId": 6,
+      "SuburbName": "Waima",
+      "SuburbId": 311
+    }
+  ],
+  "Avenues": [
+    {
+      "LocalityName": "Northland",
+      "LocalityId": 9,
+      "DistrictName": "Whangarei",
+      "DistrictId": 2,
+      "SuburbName": "Avenues",
+      "SuburbId": 3449
+    },
+    {
+      "LocalityName": "Bay Of Plenty",
+      "LocalityId": 2,
+      "DistrictName": "Tauranga",
+      "DistrictId": 23,
+      "SuburbName": "Avenues",
+      "SuburbId": 3173
+    }
+  ],
+  "Horahora": [
+    {
+      "LocalityName": "Northland",
+      "LocalityId": 9,
+      "DistrictName": "Whangarei",
+      "DistrictId": 2,
+      "SuburbName": "Horahora",
+      "SuburbId": 3435
+    },
+    {
+      "LocalityName": "Waikato",
+      "LocalityId": 14,
+      "DistrictName": "Waipa",
+      "DistrictId": 17,
+      "SuburbName": "Horahora",
+      "SuburbId": 864
+    }
+  ],
+  "Kensington": [
+    {
+      "LocalityName": "Northland",
+      "LocalityId": 9,
+      "DistrictName": "Whangarei",
+      "DistrictId": 2,
+      "SuburbName": "Kensington",
+      "SuburbId": 1444
+    },
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Timaru",
+      "DistrictId": 64,
+      "SuburbName": "Kensington",
+      "SuburbId": 3708
+    },
+    {
+      "LocalityName": "Otago",
+      "LocalityId": 10,
+      "DistrictName": "Dunedin",
+      "DistrictId": 71,
+      "SuburbName": "Kensington",
+      "SuburbId": 1907
+    }
+  ],
+  "Morningside": [
+    {
+      "LocalityName": "Northland",
+      "LocalityId": 9,
+      "DistrictName": "Whangarei",
+      "DistrictId": 2,
+      "SuburbName": "Morningside",
+      "SuburbId": 1554
+    },
+    {
+      "LocalityName": "Auckland",
+      "LocalityId": 1,
+      "DistrictName": "Auckland City",
+      "DistrictId": 7,
+      "SuburbName": "Morningside",
+      "SuburbId": 126
+    }
+  ],
+  "Woodhill": [
+    {
+      "LocalityName": "Northland",
+      "LocalityId": 9,
+      "DistrictName": "Whangarei",
+      "DistrictId": 2,
+      "SuburbName": "Woodhill",
+      "SuburbId": 1657
+    },
+    {
+      "LocalityName": "Auckland",
+      "LocalityId": 1,
+      "DistrictName": "Rodney",
+      "DistrictId": 4,
+      "SuburbName": "Woodhill",
+      "SuburbId": 217
+    }
+  ],
+  "Avondale": [
+    {
+      "LocalityName": "Auckland",
+      "LocalityId": 1,
+      "DistrictName": "Auckland City",
+      "DistrictId": 7,
+      "SuburbName": "Avondale",
+      "SuburbId": 149
+    },
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Christchurch City",
+      "DistrictId": 60,
+      "SuburbName": "Avondale",
+      "SuburbId": 2030
+    }
+  ],
+  "City Centre": [
+    {
+      "LocalityName": "Auckland",
+      "LocalityId": 1,
+      "DistrictName": "Auckland City",
+      "DistrictId": 7,
+      "SuburbName": "City Centre",
+      "SuburbId": 89
+    },
+    {
+      "LocalityName": "Auckland",
+      "LocalityId": 1,
+      "DistrictName": "Manukau City",
+      "DistrictId": 8,
+      "SuburbName": "City Centre",
+      "SuburbId": 368
+    },
+    {
+      "LocalityName": "Bay Of Plenty",
+      "LocalityId": 2,
+      "DistrictName": "Tauranga",
+      "DistrictId": 23,
+      "SuburbName": "City Centre",
+      "SuburbId": 501
+    },
+    {
+      "LocalityName": "Gisborne",
+      "LocalityId": 4,
+      "DistrictName": "Gisborne",
+      "DistrictId": 28,
+      "SuburbName": "City Centre",
+      "SuburbId": 1056
+    },
+    {
+      "LocalityName": "Hawke's Bay",
+      "LocalityId": 5,
+      "DistrictName": "Napier",
+      "DistrictId": 31,
+      "SuburbName": "City Centre",
+      "SuburbId": 1154
+    },
+    {
+      "LocalityName": "Taranaki",
+      "LocalityId": 12,
+      "DistrictName": "New Plymouth",
+      "DistrictId": 33,
+      "SuburbName": "City Centre",
+      "SuburbId": 1225
+    },
+    {
+      "LocalityName": "Manawatu / Whanganui",
+      "LocalityId": 6,
+      "DistrictName": "Palmerston North",
+      "DistrictId": 40,
+      "SuburbName": "City Centre",
+      "SuburbId": 1468
+    },
+    {
+      "LocalityName": "Manawatu / Whanganui",
+      "LocalityId": 6,
+      "DistrictName": "Whanganui",
+      "DistrictId": 37,
+      "SuburbName": "City Centre",
+      "SuburbId": 1672
+    },
+    {
+      "LocalityName": "Nelson / Tasman",
+      "LocalityId": 8,
+      "DistrictName": "Nelson",
+      "DistrictId": 52,
+      "SuburbName": "City Centre",
+      "SuburbId": 2397
+    },
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Christchurch City",
+      "DistrictId": 60,
+      "SuburbName": "City Centre",
+      "SuburbId": 2212
+    },
+    {
+      "LocalityName": "Otago",
+      "LocalityId": 10,
+      "DistrictName": "Dunedin",
+      "DistrictId": 71,
+      "SuburbName": "City Centre",
+      "SuburbId": 3038
+    },
+    {
+      "LocalityName": "Southland",
+      "LocalityId": 11,
+      "DistrictName": "Invercargill",
+      "DistrictId": 75,
+      "SuburbName": "City Centre",
+      "SuburbId": 2052
+    }
+  ],
+  "Hillsborough": [
+    {
+      "LocalityName": "Auckland",
+      "LocalityId": 1,
+      "DistrictName": "Auckland City",
+      "DistrictId": 7,
+      "SuburbName": "Hillsborough",
+      "SuburbId": 138
+    },
+    {
+      "LocalityName": "Taranaki",
+      "LocalityId": 12,
+      "DistrictName": "New Plymouth",
+      "DistrictId": 33,
+      "SuburbName": "Hillsborough",
+      "SuburbId": 918
+    },
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Christchurch City",
+      "DistrictId": 60,
+      "SuburbName": "Hillsborough",
+      "SuburbId": 2184
+    }
+  ],
+  "Westmere": [
+    {
+      "LocalityName": "Auckland",
+      "LocalityId": 1,
+      "DistrictName": "Auckland City",
+      "DistrictId": 7,
+      "SuburbName": "Westmere",
+      "SuburbId": 109
+    },
+    {
+      "LocalityName": "Manawatu / Whanganui",
+      "LocalityId": 6,
+      "DistrictName": "Whanganui",
+      "DistrictId": 37,
+      "SuburbName": "Westmere",
+      "SuburbId": 1743
+    }
+  ],
+  "Waikaretu": [
+    {
+      "LocalityName": "Auckland",
+      "LocalityId": 1,
+      "DistrictName": "Franklin",
+      "DistrictId": 10,
+      "SuburbName": "Waikaretu",
+      "SuburbId": 3591
+    },
+    {
+      "LocalityName": "Waikato",
+      "LocalityId": 14,
+      "DistrictName": "Waikato",
+      "DistrictId": 13,
+      "SuburbName": "Waikaretu",
+      "SuburbId": 3634
+    }
+  ],
+  "Totara Park": [
+    {
+      "LocalityName": "Auckland",
+      "LocalityId": 1,
+      "DistrictName": "Manukau City",
+      "DistrictId": 8,
+      "SuburbName": "Totara Park",
+      "SuburbId": 3586
+    },
+    {
+      "LocalityName": "Wellington",
+      "LocalityId": 15,
+      "DistrictName": "Upper Hutt",
+      "DistrictId": 45,
+      "SuburbName": "Totara Park",
+      "SuburbId": 2078
+    }
+  ],
+  "Belmont": [
+    {
+      "LocalityName": "Auckland",
+      "LocalityId": 1,
+      "DistrictName": "North Shore City",
+      "DistrictId": 5,
+      "SuburbName": "Belmont",
+      "SuburbId": 37
+    },
+    {
+      "LocalityName": "Wellington",
+      "LocalityId": 15,
+      "DistrictName": "Lower Hutt",
+      "DistrictId": 46,
+      "SuburbName": "Belmont",
+      "SuburbId": 2122
+    }
+  ],
+  "Hillcrest": [
+    {
+      "LocalityName": "Auckland",
+      "LocalityId": 1,
+      "DistrictName": "North Shore City",
+      "DistrictId": 5,
+      "SuburbName": "Hillcrest",
+      "SuburbId": 105
+    },
+    {
+      "LocalityName": "Waikato",
+      "LocalityId": 14,
+      "DistrictName": "Hamilton",
+      "DistrictId": 16,
+      "SuburbName": "Hillcrest",
+      "SuburbId": 1241
+    },
+    {
+      "LocalityName": "Bay Of Plenty",
+      "LocalityId": 2,
+      "DistrictName": "Rotorua",
+      "DistrictId": 24,
+      "SuburbName": "Hillcrest",
+      "SuburbId": 3083
+    }
+  ],
+  "Northcote": [
+    {
+      "LocalityName": "Auckland",
+      "LocalityId": 1,
+      "DistrictName": "North Shore City",
+      "DistrictId": 5,
+      "SuburbName": "Northcote",
+      "SuburbId": 56
+    },
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Christchurch City",
+      "DistrictId": 60,
+      "SuburbName": "Northcote",
+      "SuburbId": 3371
+    }
+  ],
+  "Rosedale": [
+    {
+      "LocalityName": "Auckland",
+      "LocalityId": 1,
+      "DistrictName": "North Shore City",
+      "DistrictId": 5,
+      "SuburbName": "Rosedale",
+      "SuburbId": 3473
+    },
+    {
+      "LocalityName": "Southland",
+      "LocalityId": 11,
+      "DistrictName": "Invercargill",
+      "DistrictId": 75,
+      "SuburbName": "Rosedale",
+      "SuburbId": 3136
+    }
+  ],
+  "Wainoni": [
+    {
+      "LocalityName": "Auckland",
+      "LocalityId": 1,
+      "DistrictName": "North Shore City",
+      "DistrictId": 5,
+      "SuburbName": "Wainoni",
+      "SuburbId": 156
+    },
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Christchurch City",
+      "DistrictId": 60,
+      "SuburbName": "Wainoni",
+      "SuburbId": 2390
+    }
+  ],
+  "Wairau Valley": [
+    {
+      "LocalityName": "Auckland",
+      "LocalityId": 1,
+      "DistrictName": "North Shore City",
+      "DistrictId": 5,
+      "SuburbName": "Wairau Valley",
+      "SuburbId": 3451
+    },
+    {
+      "LocalityName": "Marlborough",
+      "LocalityId": 7,
+      "DistrictName": "Marlborough",
+      "DistrictId": 53,
+      "SuburbName": "Wairau Valley",
+      "SuburbId": 2605
+    }
+  ],
+  "Westlake": [
+    {
+      "LocalityName": "Auckland",
+      "LocalityId": 1,
+      "DistrictName": "North Shore City",
+      "DistrictId": 5,
+      "SuburbName": "Westlake",
+      "SuburbId": 57
+    },
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Christchurch City",
+      "DistrictId": 60,
+      "SuburbName": "Westlake",
+      "SuburbId": 2046
+    }
+  ],
+  "Silverdale": [
+    {
+      "LocalityName": "Auckland",
+      "LocalityId": 1,
+      "DistrictName": "Rodney",
+      "DistrictId": 4,
+      "SuburbName": "Silverdale",
+      "SuburbId": 220
+    },
+    {
+      "LocalityName": "Waikato",
+      "LocalityId": 14,
+      "DistrictName": "Hamilton",
+      "DistrictId": 16,
+      "SuburbName": "Silverdale",
+      "SuburbId": 1186
+    }
+  ],
+  "Wainui": [
+    {
+      "LocalityName": "Auckland",
+      "LocalityId": 1,
+      "DistrictName": "Rodney",
+      "DistrictId": 4,
+      "SuburbName": "Wainui",
+      "SuburbId": 248
+    },
+    {
+      "LocalityName": "Bay Of Plenty",
+      "LocalityId": 2,
+      "DistrictName": "Whakatane",
+      "DistrictId": 25,
+      "SuburbName": "Wainui",
+      "SuburbId": 3675
+    },
+    {
+      "LocalityName": "Gisborne",
+      "LocalityId": 4,
+      "DistrictName": "Gisborne",
+      "DistrictId": 28,
+      "SuburbName": "Wainui",
+      "SuburbId": 1336
+    },
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Banks Peninsula",
+      "DistrictId": 61,
+      "SuburbName": "Wainui",
+      "SuburbId": 2254
+    }
+  ],
+  "Harbour View": [
+    {
+      "LocalityName": "Auckland",
+      "LocalityId": 1,
+      "DistrictName": "Waitakere City",
+      "DistrictId": 6,
+      "SuburbName": "Harbour View",
+      "SuburbId": 239
+    },
+    {
+      "LocalityName": "Wellington",
+      "LocalityId": 15,
+      "DistrictName": "Lower Hutt",
+      "DistrictId": 46,
+      "SuburbName": "Harbour View",
+      "SuburbId": 2120
+    }
+  ],
+  "Royal Heights": [
+    {
+      "LocalityName": "Auckland",
+      "LocalityId": 1,
+      "DistrictName": "Waitakere City",
+      "DistrictId": 6,
+      "SuburbName": "Royal Heights",
+      "SuburbId": 3257
+    },
+    {
+      "LocalityName": "Taranaki",
+      "LocalityId": 12,
+      "DistrictName": "New Plymouth",
+      "DistrictId": 33,
+      "SuburbName": "Royal Heights",
+      "SuburbId": 3242
+    }
+  ],
+  "Western Heights": [
+    {
+      "LocalityName": "Auckland",
+      "LocalityId": 1,
+      "DistrictName": "Waitakere City",
+      "DistrictId": 6,
+      "SuburbName": "Western Heights",
+      "SuburbId": 260
+    },
+    {
+      "LocalityName": "Waikato",
+      "LocalityId": 14,
+      "DistrictName": "Hamilton",
+      "DistrictId": 16,
+      "SuburbName": "Western Heights",
+      "SuburbId": 1150
+    },
+    {
+      "LocalityName": "Bay Of Plenty",
+      "LocalityId": 2,
+      "DistrictName": "Rotorua",
+      "DistrictId": 24,
+      "SuburbName": "Western Heights",
+      "SuburbId": 3133
+    }
+  ],
+  "Westgate": [
+    {
+      "LocalityName": "Auckland",
+      "LocalityId": 1,
+      "DistrictName": "Waitakere City",
+      "DistrictId": 6,
+      "SuburbName": "Westgate",
+      "SuburbId": 3392
+    },
+    {
+      "LocalityName": "Otago",
+      "LocalityId": 10,
+      "DistrictName": "Dunedin",
+      "DistrictId": 71,
+      "SuburbName": "Westgate",
+      "SuburbId": 3274
+    }
+  ],
+  "Chartwell": [
+    {
+      "LocalityName": "Waikato",
+      "LocalityId": 14,
+      "DistrictName": "Hamilton",
+      "DistrictId": 16,
+      "SuburbName": "Chartwell",
+      "SuburbId": 1268
+    },
+    {
+      "LocalityName": "Wellington",
+      "LocalityId": 15,
+      "DistrictName": "Wellington",
+      "DistrictId": 47,
+      "SuburbName": "Chartwell",
+      "SuburbId": 1798
+    }
+  ],
+  "Fairfield": [
+    {
+      "LocalityName": "Waikato",
+      "LocalityId": 14,
+      "DistrictName": "Hamilton",
+      "DistrictId": 16,
+      "SuburbName": "Fairfield",
+      "SuburbId": 1267
+    },
+    {
+      "LocalityName": "Wellington",
+      "LocalityId": 15,
+      "DistrictName": "Lower Hutt",
+      "DistrictId": 46,
+      "SuburbName": "Fairfield",
+      "SuburbId": 1767
+    },
+    {
+      "LocalityName": "Otago",
+      "LocalityId": 10,
+      "DistrictName": "Dunedin",
+      "DistrictId": 71,
+      "SuburbName": "Fairfield",
+      "SuburbId": 2070
+    }
+  ],
+  "Fitzroy": [
+    {
+      "LocalityName": "Waikato",
+      "LocalityId": 14,
+      "DistrictName": "Hamilton",
+      "DistrictId": 16,
+      "SuburbName": "Fitzroy",
+      "SuburbId": 1239
+    },
+    {
+      "LocalityName": "Taranaki",
+      "LocalityId": 12,
+      "DistrictName": "New Plymouth",
+      "DistrictId": 33,
+      "SuburbName": "Fitzroy",
+      "SuburbId": 1246
+    }
+  ],
+  "Frankton": [
+    {
+      "LocalityName": "Waikato",
+      "LocalityId": 14,
+      "DistrictName": "Hamilton",
+      "DistrictId": 16,
+      "SuburbName": "Frankton",
+      "SuburbId": 1244
+    },
+    {
+      "LocalityName": "Otago",
+      "LocalityId": 10,
+      "DistrictName": "Queenstown-Lakes",
+      "DistrictId": 70,
+      "SuburbName": "Frankton",
+      "SuburbId": 953
+    }
+  ],
+  "Saint Andrews": [
+    {
+      "LocalityName": "Waikato",
+      "LocalityId": 14,
+      "DistrictName": "Hamilton",
+      "DistrictId": 16,
+      "SuburbName": "Saint Andrews",
+      "SuburbId": 1305
+    },
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Waimate",
+      "DistrictId": 66,
+      "SuburbName": "Saint Andrews",
+      "SuburbId": 2291
+    }
+  ],
+  "Arapuni": [
+    {
+      "LocalityName": "Waikato",
+      "LocalityId": 14,
+      "DistrictName": "South Waikato",
+      "DistrictId": 19,
+      "SuburbName": "Arapuni",
+      "SuburbId": 801
+    },
+    {
+      "LocalityName": "Waikato",
+      "LocalityId": 14,
+      "DistrictName": "Waikato",
+      "DistrictId": 13,
+      "SuburbName": "Arapuni",
+      "SuburbId": 800
+    }
+  ],
+  "Town Centre": [
+    {
+      "LocalityName": "Waikato",
+      "LocalityId": 14,
+      "DistrictName": "Taupo",
+      "DistrictId": 21,
+      "SuburbName": "Town Centre",
+      "SuburbId": 1301
+    },
+    {
+      "LocalityName": "Otago",
+      "LocalityId": 10,
+      "DistrictName": "Queenstown-Lakes",
+      "DistrictId": 70,
+      "SuburbName": "Town Centre",
+      "SuburbId": 955
+    }
+  ],
+  "Tirohanga": [
+    {
+      "LocalityName": "Waikato",
+      "LocalityId": 14,
+      "DistrictName": "Waikato",
+      "DistrictId": 13,
+      "SuburbName": "Tirohanga",
+      "SuburbId": 3548
+    },
+    {
+      "LocalityName": "Bay Of Plenty",
+      "LocalityId": 2,
+      "DistrictName": "Opotiki",
+      "DistrictId": 27,
+      "SuburbName": "Tirohanga",
+      "SuburbId": 3668
+    },
+    {
+      "LocalityName": "Wellington",
+      "LocalityId": 15,
+      "DistrictName": "Lower Hutt",
+      "DistrictId": 46,
+      "SuburbName": "Tirohanga",
+      "SuburbId": 2121
+    }
+  ],
+  "Karamu": [
+    {
+      "LocalityName": "Waikato",
+      "LocalityId": 14,
+      "DistrictName": "Waipa",
+      "DistrictId": 17,
+      "SuburbName": "Karamu",
+      "SuburbId": 796
+    },
+    {
+      "LocalityName": "Hawke's Bay",
+      "LocalityId": 5,
+      "DistrictName": "Hastings",
+      "DistrictId": 30,
+      "SuburbName": "Karamu",
+      "SuburbId": 1231
+    }
+  ],
+  "Pukekura": [
+    {
+      "LocalityName": "Waikato",
+      "LocalityId": 14,
+      "DistrictName": "Waipa",
+      "DistrictId": 17,
+      "SuburbName": "Pukekura",
+      "SuburbId": 695
+    },
+    {
+      "LocalityName": "West Coast",
+      "LocalityId": 16,
+      "DistrictName": "Westland",
+      "DistrictId": 57,
+      "SuburbName": "Pukekura",
+      "SuburbId": 2360
+    }
+  ],
+  "Hospital Hill": [
+    {
+      "LocalityName": "Bay Of Plenty",
+      "LocalityId": 2,
+      "DistrictName": "Opotiki",
+      "DistrictId": 27,
+      "SuburbName": "Hospital Hill",
+      "SuburbId": 572
+    },
+    {
+      "LocalityName": "Hawke's Bay",
+      "LocalityId": 5,
+      "DistrictName": "Napier",
+      "DistrictId": 31,
+      "SuburbName": "Hospital Hill",
+      "SuburbId": 1077
+    }
+  ],
+  "Waihau Bay": [
+    {
+      "LocalityName": "Bay Of Plenty",
+      "LocalityId": 2,
+      "DistrictName": "Opotiki",
+      "DistrictId": 27,
+      "SuburbName": "Waihau Bay",
+      "SuburbId": 3589
+    },
+    {
+      "LocalityName": "Gisborne",
+      "LocalityId": 4,
+      "DistrictName": "Gisborne",
+      "DistrictId": 28,
+      "SuburbName": "Waihau Bay",
+      "SuburbId": 342
+    }
+  ],
+  "Brunswick": [
+    {
+      "LocalityName": "Bay Of Plenty",
+      "LocalityId": 2,
+      "DistrictName": "Rotorua",
+      "DistrictId": 24,
+      "SuburbName": "Brunswick",
+      "SuburbId": 3393
+    },
+    {
+      "LocalityName": "Manawatu / Whanganui",
+      "LocalityId": 6,
+      "DistrictName": "Whanganui",
+      "DistrictId": 37,
+      "SuburbName": "Brunswick",
+      "SuburbId": 1396
+    }
+  ],
+  "Springfield": [
+    {
+      "LocalityName": "Bay Of Plenty",
+      "LocalityId": 2,
+      "DistrictName": "Rotorua",
+      "DistrictId": 24,
+      "SuburbName": "Springfield",
+      "SuburbId": 3134
+    },
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Selwyn",
+      "DistrictId": 62,
+      "SuburbName": "Springfield",
+      "SuburbId": 2418
+    }
+  ],
+  "Westbrook": [
+    {
+      "LocalityName": "Bay Of Plenty",
+      "LocalityId": 2,
+      "DistrictName": "Rotorua",
+      "DistrictId": 24,
+      "SuburbName": "Westbrook",
+      "SuburbId": 3172
+    },
+    {
+      "LocalityName": "Manawatu / Whanganui",
+      "LocalityId": 6,
+      "DistrictName": "Palmerston North",
+      "DistrictId": 40,
+      "SuburbName": "Westbrook",
+      "SuburbId": 3044
+    }
+  ],
+  "Merivale": [
+    {
+      "LocalityName": "Bay Of Plenty",
+      "LocalityId": 2,
+      "DistrictName": "Tauranga",
+      "DistrictId": 23,
+      "SuburbName": "Merivale",
+      "SuburbId": 3390
+    },
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Christchurch City",
+      "DistrictId": 60,
+      "SuburbName": "Merivale",
+      "SuburbId": 2558
+    }
+  ],
+  "Oropi": [
+    {
+      "LocalityName": "Bay Of Plenty",
+      "LocalityId": 2,
+      "DistrictName": "Tauranga",
+      "DistrictId": 23,
+      "SuburbName": "Oropi",
+      "SuburbId": 3559
+    },
+    {
+      "LocalityName": "Bay Of Plenty",
+      "LocalityId": 2,
+      "DistrictName": "Western Bay Of Plenty",
+      "DistrictId": 22,
+      "SuburbName": "Oropi",
+      "SuburbId": 3135
+    }
+  ],
+  "Parkvale": [
+    {
+      "LocalityName": "Bay Of Plenty",
+      "LocalityId": 2,
+      "DistrictName": "Tauranga",
+      "DistrictId": 23,
+      "SuburbName": "Parkvale",
+      "SuburbId": 500
+    },
+    {
+      "LocalityName": "Hawke's Bay",
+      "LocalityId": 5,
+      "DistrictName": "Hastings",
+      "DistrictId": 30,
+      "SuburbName": "Parkvale",
+      "SuburbId": 1207
+    }
+  ],
+  "Pyes Pa": [
+    {
+      "LocalityName": "Bay Of Plenty",
+      "LocalityId": 2,
+      "DistrictName": "Tauranga",
+      "DistrictId": 23,
+      "SuburbName": "Pyes Pa",
+      "SuburbId": 524
+    },
+    {
+      "LocalityName": "Bay Of Plenty",
+      "LocalityId": 2,
+      "DistrictName": "Western Bay Of Plenty",
+      "DistrictId": 22,
+      "SuburbName": "Pyes Pa",
+      "SuburbId": 523
+    }
+  ],
+  "Wairoa": [
+    {
+      "LocalityName": "Bay Of Plenty",
+      "LocalityId": 2,
+      "DistrictName": "Tauranga",
+      "DistrictId": 23,
+      "SuburbName": "Wairoa",
+      "SuburbId": 3710
+    },
+    {
+      "LocalityName": "Hawke's Bay",
+      "LocalityId": 5,
+      "DistrictName": "Wairoa",
+      "DistrictId": 29,
+      "SuburbName": "Wairoa",
+      "SuburbId": 1296
+    }
+  ],
+  "Paroa": [
+    {
+      "LocalityName": "Bay Of Plenty",
+      "LocalityId": 2,
+      "DistrictName": "Whakatane",
+      "DistrictId": 25,
+      "SuburbName": "Paroa",
+      "SuburbId": 515
+    },
+    {
+      "LocalityName": "West Coast",
+      "LocalityId": 16,
+      "DistrictName": "Grey",
+      "DistrictId": 56,
+      "SuburbName": "Paroa",
+      "SuburbId": 2482
+    }
+  ],
+  "Awapuni": [
+    {
+      "LocalityName": "Gisborne",
+      "LocalityId": 4,
+      "DistrictName": "Gisborne",
+      "DistrictId": 28,
+      "SuburbName": "Awapuni",
+      "SuburbId": 1189
+    },
+    {
+      "LocalityName": "Manawatu / Whanganui",
+      "LocalityId": 6,
+      "DistrictName": "Palmerston North",
+      "DistrictId": 40,
+      "SuburbName": "Awapuni",
+      "SuburbId": 1516
+    }
+  ],
+  "Patangata": [
+    {
+      "LocalityName": "Hawke's Bay",
+      "LocalityId": 5,
+      "DistrictName": "Central Hawke's Bay",
+      "DistrictId": 32,
+      "SuburbName": "Patangata",
+      "SuburbId": 1277
+    },
+    {
+      "LocalityName": "Hawke's Bay",
+      "LocalityId": 5,
+      "DistrictName": "Hastings",
+      "DistrictId": 30,
+      "SuburbName": "Patangata",
+      "SuburbId": 1263
+    }
+  ],
+  "Fernhill": [
+    {
+      "LocalityName": "Hawke's Bay",
+      "LocalityId": 5,
+      "DistrictName": "Hastings",
+      "DistrictId": 30,
+      "SuburbName": "Fernhill",
+      "SuburbId": 3062
+    },
+    {
+      "LocalityName": "Otago",
+      "LocalityId": 10,
+      "DistrictName": "Queenstown-Lakes",
+      "DistrictId": 70,
+      "SuburbName": "Fernhill",
+      "SuburbId": 1848
+    }
+  ],
+  "Saint Leonards": [
+    {
+      "LocalityName": "Hawke's Bay",
+      "LocalityId": 5,
+      "DistrictName": "Hastings",
+      "DistrictId": 30,
+      "SuburbName": "Saint Leonards",
+      "SuburbId": 1202
+    },
+    {
+      "LocalityName": "Otago",
+      "LocalityId": 10,
+      "DistrictName": "Dunedin",
+      "DistrictId": 71,
+      "SuburbName": "Saint Leonards",
+      "SuburbId": 3035
+    }
+  ],
+  "Brooklands": [
+    {
+      "LocalityName": "Taranaki",
+      "LocalityId": 12,
+      "DistrictName": "New Plymouth",
+      "DistrictId": 33,
+      "SuburbName": "Brooklands",
+      "SuburbId": 1175
+    },
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Christchurch City",
+      "DistrictId": 60,
+      "SuburbName": "Brooklands",
+      "SuburbId": 2317
+    }
+  ],
+  "Vogeltown": [
+    {
+      "LocalityName": "Taranaki",
+      "LocalityId": 12,
+      "DistrictName": "New Plymouth",
+      "DistrictId": 33,
+      "SuburbName": "Vogeltown",
+      "SuburbId": 1174
+    },
+    {
+      "LocalityName": "Wellington",
+      "LocalityId": 15,
+      "DistrictName": "Wellington",
+      "DistrictId": 47,
+      "SuburbName": "Vogeltown",
+      "SuburbId": 1344
+    }
+  ],
+  "Awatuna": [
+    {
+      "LocalityName": "Taranaki",
+      "LocalityId": 12,
+      "DistrictName": "South Taranaki",
+      "DistrictId": 35,
+      "SuburbName": "Awatuna",
+      "SuburbId": 3582
+    },
+    {
+      "LocalityName": "West Coast",
+      "LocalityId": 16,
+      "DistrictName": "Westland",
+      "DistrictId": 57,
+      "SuburbName": "Awatuna",
+      "SuburbId": 3482
+    }
+  ],
+  "Normanby": [
+    {
+      "LocalityName": "Taranaki",
+      "LocalityId": 12,
+      "DistrictName": "South Taranaki",
+      "DistrictId": 35,
+      "SuburbName": "Normanby",
+      "SuburbId": 1238
+    },
+    {
+      "LocalityName": "Otago",
+      "LocalityId": 10,
+      "DistrictName": "Dunedin",
+      "DistrictId": 71,
+      "SuburbName": "Normanby",
+      "SuburbId": 2343
+    }
+  ],
+  "Waverley": [
+    {
+      "LocalityName": "Taranaki",
+      "LocalityId": 12,
+      "DistrictName": "South Taranaki",
+      "DistrictId": 35,
+      "SuburbName": "Waverley",
+      "SuburbId": 1034
+    },
+    {
+      "LocalityName": "Otago",
+      "LocalityId": 10,
+      "DistrictName": "Dunedin",
+      "DistrictId": 71,
+      "SuburbName": "Waverley",
+      "SuburbId": 3028
+    },
+    {
+      "LocalityName": "Southland",
+      "LocalityId": 11,
+      "DistrictName": "Invercargill",
+      "DistrictId": 75,
+      "SuburbName": "Waverley",
+      "SuburbId": 3475
+    },
+    {
+      "LocalityName": "Southland",
+      "LocalityId": 11,
+      "DistrictName": "Southland",
+      "DistrictId": 73,
+      "SuburbName": "Waverley",
+      "SuburbId": 3138
+    }
+  ],
+  "Highbury": [
+    {
+      "LocalityName": "Manawatu / Whanganui",
+      "LocalityId": 6,
+      "DistrictName": "Manawatu",
+      "DistrictId": 39,
+      "SuburbName": "Highbury",
+      "SuburbId": 1638
+    },
+    {
+      "LocalityName": "Manawatu / Whanganui",
+      "LocalityId": 6,
+      "DistrictName": "Palmerston North",
+      "DistrictId": 40,
+      "SuburbName": "Highbury",
+      "SuburbId": 1756
+    },
+    {
+      "LocalityName": "Wellington",
+      "LocalityId": 15,
+      "DistrictName": "Wellington",
+      "DistrictId": 47,
+      "SuburbName": "Highbury",
+      "SuburbId": 1783
+    }
+  ],
+  "Kelvin Grove": [
+    {
+      "LocalityName": "Manawatu / Whanganui",
+      "LocalityId": 6,
+      "DistrictName": "Manawatu",
+      "DistrictId": 39,
+      "SuburbName": "Kelvin Grove",
+      "SuburbId": 1660
+    },
+    {
+      "LocalityName": "Manawatu / Whanganui",
+      "LocalityId": 6,
+      "DistrictName": "Palmerston North",
+      "DistrictId": 40,
+      "SuburbName": "Kelvin Grove",
+      "SuburbId": 1661
+    }
+  ],
+  "Whakarongo": [
+    {
+      "LocalityName": "Manawatu / Whanganui",
+      "LocalityId": 6,
+      "DistrictName": "Manawatu",
+      "DistrictId": 39,
+      "SuburbName": "Whakarongo",
+      "SuburbId": 3615
+    },
+    {
+      "LocalityName": "Manawatu / Whanganui",
+      "LocalityId": 6,
+      "DistrictName": "Palmerston North",
+      "DistrictId": 40,
+      "SuburbName": "Whakarongo",
+      "SuburbId": 3568
+    }
+  ],
+  "Roslyn": [
+    {
+      "LocalityName": "Manawatu / Whanganui",
+      "LocalityId": 6,
+      "DistrictName": "Palmerston North",
+      "DistrictId": 40,
+      "SuburbName": "Roslyn",
+      "SuburbId": 1605
+    },
+    {
+      "LocalityName": "Otago",
+      "LocalityId": 10,
+      "DistrictName": "Dunedin",
+      "DistrictId": 71,
+      "SuburbName": "Roslyn",
+      "SuburbId": 1945
+    }
+  ],
+  "West End": [
+    {
+      "LocalityName": "Manawatu / Whanganui",
+      "LocalityId": 6,
+      "DistrictName": "Palmerston North",
+      "DistrictId": 40,
+      "SuburbName": "West End",
+      "SuburbId": 1608
+    },
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Timaru",
+      "DistrictId": 64,
+      "SuburbName": "West End",
+      "SuburbId": 3690
+    }
+  ],
+  "Kaitoke": [
+    {
+      "LocalityName": "Manawatu / Whanganui",
+      "LocalityId": 6,
+      "DistrictName": "Whanganui",
+      "DistrictId": 37,
+      "SuburbName": "Kaitoke",
+      "SuburbId": 964
+    },
+    {
+      "LocalityName": "Wellington",
+      "LocalityId": 15,
+      "DistrictName": "Upper Hutt",
+      "DistrictId": 45,
+      "SuburbName": "Kaitoke",
+      "SuburbId": 3166
+    }
+  ],
+  "Marybank": [
+    {
+      "LocalityName": "Manawatu / Whanganui",
+      "LocalityId": 6,
+      "DistrictName": "Whanganui",
+      "DistrictId": 37,
+      "SuburbName": "Marybank",
+      "SuburbId": 1668
+    },
+    {
+      "LocalityName": "Nelson / Tasman",
+      "LocalityId": 8,
+      "DistrictName": "Nelson",
+      "DistrictId": 52,
+      "SuburbName": "Marybank",
+      "SuburbId": 2319
+    }
+  ],
+  "Paparangi": [
+    {
+      "LocalityName": "Manawatu / Whanganui",
+      "LocalityId": 6,
+      "DistrictName": "Whanganui",
+      "DistrictId": 37,
+      "SuburbName": "Paparangi",
+      "SuburbId": 3697
+    },
+    {
+      "LocalityName": "Wellington",
+      "LocalityId": 15,
+      "DistrictName": "Wellington",
+      "DistrictId": 47,
+      "SuburbName": "Paparangi",
+      "SuburbId": 1560
+    }
+  ],
+  "Springvale": [
+    {
+      "LocalityName": "Manawatu / Whanganui",
+      "LocalityId": 6,
+      "DistrictName": "Whanganui",
+      "DistrictId": 37,
+      "SuburbName": "Springvale",
+      "SuburbId": 2077
+    },
+    {
+      "LocalityName": "Otago",
+      "LocalityId": 10,
+      "DistrictName": "Central Otago",
+      "DistrictId": 69,
+      "SuburbName": "Springvale",
+      "SuburbId": 3706
+    }
+  ],
+  "Seaview": [
+    {
+      "LocalityName": "Wellington",
+      "LocalityId": 15,
+      "DistrictName": "Lower Hutt",
+      "DistrictId": 46,
+      "SuburbName": "Seaview",
+      "SuburbId": 1873
+    },
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Timaru",
+      "DistrictId": 64,
+      "SuburbName": "Seaview",
+      "SuburbId": 3685
+    }
+  ],
+  "Sunshine Bay": [
+    {
+      "LocalityName": "Wellington",
+      "LocalityId": 15,
+      "DistrictName": "Lower Hutt",
+      "DistrictId": 46,
+      "SuburbName": "Sunshine Bay",
+      "SuburbId": 3364
+    },
+    {
+      "LocalityName": "Otago",
+      "LocalityId": 10,
+      "DistrictName": "Queenstown-Lakes",
+      "DistrictId": 70,
+      "SuburbName": "Sunshine Bay",
+      "SuburbId": 1847
+    }
+  ],
+  "Linden": [
+    {
+      "LocalityName": "Wellington",
+      "LocalityId": 15,
+      "DistrictName": "Porirua",
+      "DistrictId": 44,
+      "SuburbName": "Linden",
+      "SuburbId": 973
+    },
+    {
+      "LocalityName": "Wellington",
+      "LocalityId": 15,
+      "DistrictName": "Wellington",
+      "DistrictId": 47,
+      "SuburbName": "Linden",
+      "SuburbId": 1930
+    }
+  ],
+  "Gladstone": [
+    {
+      "LocalityName": "Wellington",
+      "LocalityId": 15,
+      "DistrictName": "South Wairarapa",
+      "DistrictId": 50,
+      "SuburbName": "Gladstone",
+      "SuburbId": 3375
+    },
+    {
+      "LocalityName": "Southland",
+      "LocalityId": 11,
+      "DistrictName": "Invercargill",
+      "DistrictId": 75,
+      "SuburbName": "Gladstone",
+      "SuburbId": 2532
+    }
+  ],
+  "Brooklyn": [
+    {
+      "LocalityName": "Wellington",
+      "LocalityId": 15,
+      "DistrictName": "Wellington",
+      "DistrictId": 47,
+      "SuburbName": "Brooklyn",
+      "SuburbId": 1018
+    },
+    {
+      "LocalityName": "Nelson / Tasman",
+      "LocalityId": 8,
+      "DistrictName": "Tasman",
+      "DistrictId": 51,
+      "SuburbName": "Brooklyn",
+      "SuburbId": 3722
+    }
+  ],
+  "Kingston": [
+    {
+      "LocalityName": "Wellington",
+      "LocalityId": 15,
+      "DistrictName": "Wellington",
+      "DistrictId": 47,
+      "SuburbName": "Kingston",
+      "SuburbId": 1568
+    },
+    {
+      "LocalityName": "Otago",
+      "LocalityId": 10,
+      "DistrictName": "Queenstown-Lakes",
+      "DistrictId": 70,
+      "SuburbName": "Kingston",
+      "SuburbId": 1510
+    }
+  ],
+  "Mornington": [
+    {
+      "LocalityName": "Wellington",
+      "LocalityId": 15,
+      "DistrictName": "Wellington",
+      "DistrictId": 47,
+      "SuburbName": "Mornington",
+      "SuburbId": 1343
+    },
+    {
+      "LocalityName": "Otago",
+      "LocalityId": 10,
+      "DistrictName": "Dunedin",
+      "DistrictId": 71,
+      "SuburbName": "Mornington",
+      "SuburbId": 1905
+    }
+  ],
+  "Redwood": [
+    {
+      "LocalityName": "Wellington",
+      "LocalityId": 15,
+      "DistrictName": "Wellington",
+      "DistrictId": 47,
+      "SuburbName": "Redwood",
+      "SuburbId": 1852
+    },
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Christchurch City",
+      "DistrictId": 60,
+      "SuburbName": "Redwood",
+      "SuburbId": 2511
+    }
+  ],
+  "Roseneath": [
+    {
+      "LocalityName": "Wellington",
+      "LocalityId": 15,
+      "DistrictName": "Wellington",
+      "DistrictId": 47,
+      "SuburbName": "Roseneath",
+      "SuburbId": 1566
+    },
+    {
+      "LocalityName": "Otago",
+      "LocalityId": 10,
+      "DistrictName": "Dunedin",
+      "DistrictId": 71,
+      "SuburbName": "Roseneath",
+      "SuburbId": 3036
+    }
+  ],
+  "Bishopdale": [
+    {
+      "LocalityName": "Nelson / Tasman",
+      "LocalityId": 8,
+      "DistrictName": "Nelson",
+      "DistrictId": 52,
+      "SuburbName": "Bishopdale",
+      "SuburbId": 2316
+    },
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Christchurch City",
+      "DistrictId": 60,
+      "SuburbName": "Bishopdale",
+      "SuburbId": 2507
+    }
+  ],
+  "Moana": [
+    {
+      "LocalityName": "Nelson / Tasman",
+      "LocalityId": 8,
+      "DistrictName": "Nelson",
+      "DistrictId": 52,
+      "SuburbName": "Moana",
+      "SuburbId": 3532
+    },
+    {
+      "LocalityName": "West Coast",
+      "LocalityId": 16,
+      "DistrictName": "Grey",
+      "DistrictId": 56,
+      "SuburbName": "Moana",
+      "SuburbId": 2382
+    },
+    {
+      "LocalityName": "West Coast",
+      "LocalityId": 16,
+      "DistrictName": "Westland",
+      "DistrictId": 57,
+      "SuburbName": "Moana",
+      "SuburbId": 2399
+    }
+  ],
+  "The Glen": [
+    {
+      "LocalityName": "Nelson / Tasman",
+      "LocalityId": 8,
+      "DistrictName": "Nelson",
+      "DistrictId": 52,
+      "SuburbName": "The Glen",
+      "SuburbId": 3304
+    },
+    {
+      "LocalityName": "Otago",
+      "LocalityId": 10,
+      "DistrictName": "Dunedin",
+      "DistrictId": 71,
+      "SuburbName": "The Glen",
+      "SuburbId": 3578
+    }
+  ],
+  "Appleby": [
+    {
+      "LocalityName": "Nelson / Tasman",
+      "LocalityId": 8,
+      "DistrictName": "Tasman",
+      "DistrictId": 51,
+      "SuburbName": "Appleby",
+      "SuburbId": 3407
+    },
+    {
+      "LocalityName": "Southland",
+      "LocalityId": 11,
+      "DistrictName": "Invercargill",
+      "DistrictId": 75,
+      "SuburbName": "Appleby",
+      "SuburbId": 3064
+    }
+  ],
+  "Clifton": [
+    {
+      "LocalityName": "Nelson / Tasman",
+      "LocalityId": 8,
+      "DistrictName": "Tasman",
+      "DistrictId": 51,
+      "SuburbName": "Clifton",
+      "SuburbId": 3716
+    },
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Christchurch City",
+      "DistrictId": 60,
+      "SuburbName": "Clifton",
+      "SuburbId": 2435
+    },
+    {
+      "LocalityName": "Southland",
+      "LocalityId": 11,
+      "DistrictName": "Invercargill",
+      "DistrictId": 75,
+      "SuburbName": "Clifton",
+      "SuburbId": 2536
+    }
+  ],
+  "Richmond": [
+    {
+      "LocalityName": "Nelson / Tasman",
+      "LocalityId": 8,
+      "DistrictName": "Tasman",
+      "DistrictId": 51,
+      "SuburbName": "Richmond",
+      "SuburbId": 2563
+    },
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Christchurch City",
+      "DistrictId": 60,
+      "SuburbName": "Richmond",
+      "SuburbId": 2213
+    },
+    {
+      "LocalityName": "Southland",
+      "LocalityId": 11,
+      "DistrictName": "Invercargill",
+      "DistrictId": 75,
+      "SuburbName": "Richmond",
+      "SuburbId": 3153
+    }
+  ],
+  "Islington": [
+    {
+      "LocalityName": "Marlborough",
+      "LocalityId": 7,
+      "DistrictName": "Blenheim",
+      "DistrictId": 82,
+      "SuburbName": "Islington",
+      "SuburbId": 3640
+    },
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Christchurch City",
+      "DistrictId": 60,
+      "SuburbName": "Islington",
+      "SuburbId": 2145
+    }
+  ],
+  "Mayfield": [
+    {
+      "LocalityName": "Marlborough",
+      "LocalityId": 7,
+      "DistrictName": "Blenheim",
+      "DistrictId": 82,
+      "SuburbName": "Mayfield",
+      "SuburbId": 3469
+    },
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Ashburton",
+      "DistrictId": 63,
+      "SuburbName": "Mayfield",
+      "SuburbId": 2354
+    }
+  ],
+  "Riversdale": [
+    {
+      "LocalityName": "Marlborough",
+      "LocalityId": 7,
+      "DistrictName": "Blenheim",
+      "DistrictId": 82,
+      "SuburbName": "Riversdale",
+      "SuburbId": 3105
+    },
+    {
+      "LocalityName": "Southland",
+      "LocalityId": 11,
+      "DistrictName": "Southland",
+      "DistrictId": 73,
+      "SuburbName": "Riversdale",
+      "SuburbId": 2448
+    }
+  ],
+  "Bexley": [
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Christchurch City",
+      "DistrictId": 60,
+      "SuburbName": "Bexley",
+      "SuburbId": 2342
+    },
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Waimakariri",
+      "DistrictId": 59,
+      "SuburbName": "Bexley",
+      "SuburbId": 2417
+    }
+  ],
+  "Ravenswood": [
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Christchurch City",
+      "DistrictId": 60,
+      "SuburbName": "Ravenswood",
+      "SuburbId": 3701
+    },
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Waimakariri",
+      "DistrictId": 59,
+      "SuburbName": "Ravenswood",
+      "SuburbId": 3700
+    }
+  ],
+  "Maori Hill": [
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Timaru",
+      "DistrictId": 64,
+      "SuburbName": "Maori Hill",
+      "SuburbId": 3721
+    },
+    {
+      "LocalityName": "Otago",
+      "LocalityId": 10,
+      "DistrictName": "Dunedin",
+      "DistrictId": 71,
+      "SuburbName": "Maori Hill",
+      "SuburbId": 1942
+    }
+  ],
+  "Woodend": [
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Waimakariri",
+      "DistrictId": 59,
+      "SuburbName": "Woodend",
+      "SuburbId": 2514
+    },
+    {
+      "LocalityName": "Southland",
+      "LocalityId": 11,
+      "DistrictName": "Invercargill",
+      "DistrictId": 75,
+      "SuburbName": "Woodend",
+      "SuburbId": 2452
+    }
+  ],
+  "Glenavy": [
+    {
+      "LocalityName": "Canterbury",
+      "LocalityId": 3,
+      "DistrictName": "Waimate",
+      "DistrictId": 66,
+      "SuburbName": "Glenavy",
+      "SuburbId": 2169
+    },
+    {
+      "LocalityName": "Otago",
+      "LocalityId": 10,
+      "DistrictName": "Waitaki",
+      "DistrictId": 68,
+      "SuburbName": "Glenavy",
+      "SuburbId": 3442
+    }
+  ],
+  "Kew": [
+    {
+      "LocalityName": "Otago",
+      "LocalityId": 10,
+      "DistrictName": "Dunedin",
+      "DistrictId": 71,
+      "SuburbName": "Kew",
+      "SuburbId": 1832
+    },
+    {
+      "LocalityName": "Southland",
+      "LocalityId": 11,
+      "DistrictName": "Invercargill",
+      "DistrictId": 75,
+      "SuburbName": "Kew",
+      "SuburbId": 2080
+    }
+  ],
+  "Windsor": [
+    {
+      "LocalityName": "Otago",
+      "LocalityId": 10,
+      "DistrictName": "Waitaki",
+      "DistrictId": 68,
+      "SuburbName": "Windsor",
+      "SuburbId": 3400
+    },
+    {
+      "LocalityName": "Southland",
+      "LocalityId": 11,
+      "DistrictName": "Invercargill",
+      "DistrictId": 75,
+      "SuburbName": "Windsor",
+      "SuburbId": 3154
+    }
+  ],
+  "Tokanui": [
+    {
+      "LocalityName": "Southland",
+      "LocalityId": 11,
+      "DistrictName": "Catlins",
+      "DistrictId": 78,
+      "SuburbName": "Tokanui",
+      "SuburbId": 3742
+    },
+    {
+      "LocalityName": "Southland",
+      "LocalityId": 11,
+      "DistrictName": "Southland",
+      "DistrictId": 73,
+      "SuburbName": "Tokanui",
+      "SuburbId": 2438
+    }
+  ],
+  "Te Tipua": [
+    {
+      "LocalityName": "Southland",
+      "LocalityId": 11,
+      "DistrictName": "Gore",
+      "DistrictId": 74,
+      "SuburbName": "Te Tipua",
+      "SuburbId": 3711
+    },
+    {
+      "LocalityName": "Southland",
+      "LocalityId": 11,
+      "DistrictName": "Southland",
+      "DistrictId": 73,
+      "SuburbName": "Te Tipua",
+      "SuburbId": 3714
+    }
+  ],
+  "Wallacetown": [
+    {
+      "LocalityName": "Southland",
+      "LocalityId": 11,
+      "DistrictName": "Invercargill",
+      "DistrictId": 75,
+      "SuburbName": "Wallacetown",
+      "SuburbId": 3474
+    },
+    {
+      "LocalityName": "Southland",
+      "LocalityId": 11,
+      "DistrictName": "Southland",
+      "DistrictId": 73,
+      "SuburbName": "Wallacetown",
+      "SuburbId": 1478
+    }
+  ]
+}
